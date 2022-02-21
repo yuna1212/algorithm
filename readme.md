@@ -37,6 +37,11 @@
 |<img src="/images/silver4.svg" width="auto" height="18"/>|10773|[제로](백준/스택/제로.py)|5분|2022년 2월 5일|🟢|
 |<img src="/images/silver3.svg" width="auto" height="18"/>|1874|[스택 수열](백준/스택/스택%20수열.py)|1시간|2022년 2월 5일|🟢|
 |<img src="/images/gold4.svg" width="auto" height="18"/>|17298|[오큰수](백준/스택/오큰수.py)|15분|2022년 2월 18일|🟢|
+### 분할 정복
+|레벨|문제 번호|문제 이름|풀이 시간|날짜|완료|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|<img src="/images/silver3.svg" width="auto" height="18"/>|2630|[색종이 만들기](백준/분할%20정복/색종이%20만들기.py)|1시간|2022년 2월 21일|🟢|
+|<img src="/images/gold4.svg" width="auto" height="18"/>|10830|[행렬 제곱](백준/분할%20정복/행렬%20제곱.py)|1시간|2022년 2월 21일|🟢|
 ## 프로그래머스
 ### 동적계획법(Dynamic Programming)
 |레벨|문제 이름|풀이 시간|날짜|완료|
