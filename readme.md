@@ -48,6 +48,11 @@
 |<img src="/images/silver3.svg" width="auto" height="18"/>|2630|[색종이 만들기](백준/분할%20정복/색종이%20만들기.py)|1시간|2022년 2월 21일|🟢|
 |<img src="/images/gold4.svg" width="auto" height="18"/>|10830|[행렬 제곱](백준/분할%20정복/행렬%20제곱.py)|1시간|2022년 2월 21일|🟢|
 |<img src="/images/silver1.svg" width="auto" height="18"/>|1629|[곱셈](백준/분할%20정복/곱셈.py)|10분|2022년 2월 22일|🟢|
+### 이분 탐색
+|레벨|문제 번호|문제 이름|풀이 시간|날짜|완료|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|<img src="/images/silver4.svg" width="auto" height="18"/>|1920|[수 찾기](/백준/이분%20탐색/수%20찾기.py)|50분|2022년 2월 24일|⚫|
+|<img src="/images/silver4.svg" width="auto" height="18"/>|1920|[수 찾기](/백준/이분%20탐색/수%20찾기(2).py)|30분|2022년 2월 24일|🟢|
 <p align="right"><a href="#목차">▲목차</a></p>  
 
 ## 프로그래머스
