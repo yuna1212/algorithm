@@ -58,7 +58,8 @@
 |<img src="/images/silver4.svg" width="auto" height="18"/>|1920|[수 찾기](/백준/이분%20탐색/수%20찾기.py)|50분|2022년 2월 24일|⚫|
 |<img src="/images/silver4.svg" width="auto" height="18"/>|1920|[수 찾기](/백준/이분%20탐색/수%20찾기(2).py)|30분|2022년 2월 24일|🟢|
 |<img src="/images/silver3.svg" width="auto" height="18"/>|1654|[랜선 자르기](/백준/이분%20탐색/랜선%20자르기.py)|2시간|2022년 2월 28일|🟢|
-|<img src="/images/gold5.svg" width="auto" height="18"/>|2110|[공유기 설치](/백준/이분%20탐색/공유기%20설치.py)|1시간 30분|2022년 3월 3일|🔴|
+|<img src="/images/gold5.svg" width="auto" height="18"/>|2110|[공유기 설치](/백준/이분%20탐색/공유기%20설치.py)|1시간 30분|2022년 3월 3일|⚫|
+|<img src="/images/gold5.svg" width="auto" height="18"/>|2110|[공유기 설치](/백준/이분%20탐색/공유기%20설치(2).py)|50분|2022년 3월 4일|🟢|
 <p align="right"><a href="#목차">▲목차</a></p>  
 
 ## 프로그래머스
