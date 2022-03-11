@@ -70,6 +70,11 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |<img src="/images/silver2.svg" width="auto" height="18"/>|1260|[DFS와 BFS](/백준/DFS와%20BFS/DFS와%20BFS.py)|1시간|2022년 3월 10일|🟢|
 |<img src="/images/silver1.svg" width="auto" height="18"/>|2667|[단지번호붙이기](/백준/DFS와%20BFS/단지번호붙이기.py)|40분|2022년 3월 10일|🟢|
+### 우선순위 큐
+|레벨|문제 번호|문제 이름|풀이 시간|날짜|완료|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|<img src="/images/silver2.svg" width="auto" height="18"/>|11279|[최대 힙](/백준/우선순위%20큐/최대%20힙.py)|10분|2022년 3월 11일|🟢|
+|<img src="/images/silver2.svg" width="auto" height="18"/>|11279|[최대 힙](/백준/우선순위%20큐/최대%20힙(2).py)|2시간|2022년 3월 11일|🟢|
 <p align="right"><a href="#목차">▲목차</a></p>  
 
 ## 프로그래머스
