@@ -77,6 +77,9 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |<img src="/images/silver2.svg" width="auto" height="18"/>|11279|[최대 힙](/백준/우선순위%20큐/최대%20힙.py)|10분|2022년 3월 11일|🟢|
 |<img src="/images/silver2.svg" width="auto" height="18"/>|11279|[최대 힙](/백준/우선순위%20큐/최대%20힙(2).py)|2시간|2022년 3월 11일|🟢|
+|<img src="/images/silver2.svg" width="auto" height="18"/>|1927|[최소 힙](/백준/우선순위%20큐/최소%20힙.py)|15분|2022년 3월 20일|🟢|
+|<img src="/images/silver1.svg" width="auto" height="18"/>|11286|[절댓값 힙](/백준/우선순위%20큐/절댓값%20힙.py)|40분|2022년 3월 20일|🟢|
+|<img src="/images/gold2.svg" width="auto" height="18"/>|1655|[가운데를 말해요](/백준/우선순위%20큐/가운데를%20말해요.py)|1시간|2022년 3월 20일|🟢|
 <p align="right"><a href="#목차">▲목차</a></p>  
 
 ## 프로그래머스
