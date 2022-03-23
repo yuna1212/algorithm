@@ -51,7 +51,7 @@
 |하|[승률 올리기](/알고리즘%20문제%20해결%20전략/승률%20올리기/2022-03-03.py)|1시간|2022년 3월 3일|🟢|
 <p align="right"><a href="#목차">▲목차</a></p>  
 
-# 이것이 취업을 위한 코딩 테스트다 with 파이썬
+## 이것이 취업을 위한 코딩 테스트다 with 파이썬
 ### 그리디
 |난이도|문제 이름|풀이 시간|날짜|완료|
 |:---:|:---:|:---:|:---:|:---:|
@@ -73,43 +73,43 @@
 ### 동적 계획법 1
 |레벨|문제 번호|문제 이름|풀이 시간|날짜|완료|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|<img src="/images/silver2.svg" width="auto" height="18"/>|11053|[가장 긴 증가하는 부분 수열](/백준/동적%20계획법%201/가장%20긴%20증가하는%20부분%20수열.py)|2시간|2022년 3월 4일|🟢|
+|<img src="./images/silver2.svg" width="auto" height="18"/>|11053|[가장 긴 증가하는 부분 수열](/백준/동적%20계획법%201/가장%20긴%20증가하는%20부분%20수열.py)|2시간|2022년 3월 4일|🟢|
 ### 스택
 |레벨|문제 번호|문제 이름|풀이 시간|날짜|완료|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|<img src="/images/silver4.svg" width="auto" height="18"/>|10828|[스택](백준/스택/스택.py)|10분|2022년 2월 5일|🟢|
-|<img src="/images/silver4.svg" width="auto" height="18"/>|10773|[제로](백준/스택/제로.py)|5분|2022년 2월 5일|🟢|
-|<img src="/images/silver3.svg" width="auto" height="18"/>|1874|[스택 수열](백준/스택/스택%20수열.py)|1시간|2022년 2월 5일|🟢|
-|<img src="/images/gold4.svg" width="auto" height="18"/>|17298|[오큰수](백준/스택/오큰수.py)|15분|2022년 2월 18일|🟢|
+|<img src="./images/silver4.svg" width="auto" height="18"/>|10828|[스택](백준/스택/스택.py)|10분|2022년 2월 5일|🟢|
+|<img src="./images/silver4.svg" width="auto" height="18"/>|10773|[제로](백준/스택/제로.py)|5분|2022년 2월 5일|🟢|
+|<img src="./images/silver3.svg" width="auto" height="18"/>|1874|[스택 수열](백준/스택/스택%20수열.py)|1시간|2022년 2월 5일|🟢|
+|<img src="./images/gold4.svg" width="auto" height="18"/>|17298|[오큰수](백준/스택/오큰수.py)|15분|2022년 2월 18일|🟢|
 ### 분할 정복
 |레벨|문제 번호|문제 이름|풀이 시간|날짜|완료|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|<img src="/images/silver3.svg" width="auto" height="18"/>|2630|[색종이 만들기](백준/분할%20정복/색종이%20만들기.py)|1시간|2022년 2월 21일|🟢|
-|<img src="/images/gold4.svg" width="auto" height="18"/>|10830|[행렬 제곱](백준/분할%20정복/행렬%20제곱.py)|1시간|2022년 2월 21일|🟢|
-|<img src="/images/silver1.svg" width="auto" height="18"/>|1629|[곱셈](백준/분할%20정복/곱셈.py)|10분|2022년 2월 22일|🟢|
+|<img src="./images/silver3.svg" width="auto" height="18"/>|2630|[색종이 만들기](백준/분할%20정복/색종이%20만들기.py)|1시간|2022년 2월 21일|🟢|
+|<img src="./images/gold4.svg" width="auto" height="18"/>|10830|[행렬 제곱](백준/분할%20정복/행렬%20제곱.py)|1시간|2022년 2월 21일|🟢|
+|<img src="./images/silver1.svg" width="auto" height="18"/>|1629|[곱셈](백준/분할%20정복/곱셈.py)|10분|2022년 2월 22일|🟢|
 ### 이분 탐색
 |레벨|문제 번호|문제 이름|풀이 시간|날짜|완료|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|<img src="/images/silver4.svg" width="auto" height="18"/>|1920|[수 찾기](/백준/이분%20탐색/수%20찾기.py)|50분|2022년 2월 24일|⚫|
-|<img src="/images/silver4.svg" width="auto" height="18"/>|1920|[수 찾기](/백준/이분%20탐색/수%20찾기(2).py)|30분|2022년 2월 24일|🟢|
-|<img src="/images/silver3.svg" width="auto" height="18"/>|1654|[랜선 자르기](/백준/이분%20탐색/랜선%20자르기.py)|2시간|2022년 2월 28일|🟢|
-|<img src="/images/gold5.svg" width="auto" height="18"/>|2110|[공유기 설치](/백준/이분%20탐색/공유기%20설치.py)|1시간 30분|2022년 3월 3일|⚫|
-|<img src="/images/gold5.svg" width="auto" height="18"/>|2110|[공유기 설치](/백준/이분%20탐색/공유기%20설치(2).py)|50분|2022년 3월 4일|🟢|
+|<img src="./images/silver4.svg" width="auto" height="18"/>|1920|[수 찾기](/백준/이분%20탐색/수%20찾기.py)|50분|2022년 2월 24일|⚫|
+|<img src="./images/silver4.svg" width="auto" height="18"/>|1920|[수 찾기](/백준/이분%20탐색/수%20찾기(2).py)|30분|2022년 2월 24일|🟢|
+|<img src="./images/silver3.svg" width="auto" height="18"/>|1654|[랜선 자르기](/백준/이분%20탐색/랜선%20자르기.py)|2시간|2022년 2월 28일|🟢|
+|<img src="./images/gold5.svg" width="auto" height="18"/>|2110|[공유기 설치](/백준/이분%20탐색/공유기%20설치.py)|1시간 30분|2022년 3월 3일|⚫|
+|<img src="./images/gold5.svg" width="auto" height="18"/>|2110|[공유기 설치](/백준/이분%20탐색/공유기%20설치(2).py)|50분|2022년 3월 4일|🟢|
 ### DFS와 BFS
 |레벨|문제 번호|문제 이름|풀이 시간|날짜|완료|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|<img src="/images/silver2.svg" width="auto" height="18"/>|1260|[DFS와 BFS](/백준/DFS와%20BFS/DFS와%20BFS.py)|1시간|2022년 3월 10일|🟢|
-|<img src="/images/silver1.svg" width="auto" height="18"/>|2667|[단지번호붙이기](/백준/DFS와%20BFS/단지번호붙이기.py)|40분|2022년 3월 10일|🟢|
-|<img src="/images/silver1.svg" width="auto" height="18"/>|2178|[미로 탐색](/백준/DFS와%20BFS/미로%20탐색.py)|1시간|2022년 3월 16일|🟢|
-|<img src="/images/gold5.svg" width="auto" height="18"/>|7576|[토마토](/백준/DFS와%20BFS/토마토.py)|50분|2022년 3월 16일|🟢|
+|<img src="./images/silver2.svg" width="auto" height="18"/>|1260|[DFS와 BFS](/백준/DFS와%20BFS/DFS와%20BFS.py)|1시간|2022년 3월 10일|🟢|
+|<img src="./images/silver1.svg" width="auto" height="18"/>|2667|[단지번호붙이기](/백준/DFS와%20BFS/단지번호붙이기.py)|40분|2022년 3월 10일|🟢|
+|<img src="./images/silver1.svg" width="auto" height="18"/>|2178|[미로 탐색](/백준/DFS와%20BFS/미로%20탐색.py)|1시간|2022년 3월 16일|🟢|
+|<img src="./images/gold5.svg" width="auto" height="18"/>|7576|[토마토](/백준/DFS와%20BFS/토마토.py)|50분|2022년 3월 16일|🟢|
 ### 우선순위 큐
 |레벨|문제 번호|문제 이름|풀이 시간|날짜|완료|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|<img src="/images/silver2.svg" width="auto" height="18"/>|11279|[최대 힙](/백준/우선순위%20큐/최대%20힙.py)|10분|2022년 3월 11일|🟢|
-|<img src="/images/silver2.svg" width="auto" height="18"/>|11279|[최대 힙](/백준/우선순위%20큐/최대%20힙(2).py)|2시간|2022년 3월 11일|🟢|
-|<img src="/images/silver2.svg" width="auto" height="18"/>|1927|[최소 힙](/백준/우선순위%20큐/최소%20힙.py)|15분|2022년 3월 20일|🟢|
-|<img src="/images/silver1.svg" width="auto" height="18"/>|11286|[절댓값 힙](/백준/우선순위%20큐/절댓값%20힙.py)|40분|2022년 3월 20일|🟢|
-|<img src="/images/gold2.svg" width="auto" height="18"/>|1655|[가운데를 말해요](/백준/우선순위%20큐/가운데를%20말해요.py)|1시간|2022년 3월 20일|🟢|
+|<img src="./images/silver2.svg" width="auto" height="18"/>|11279|[최대 힙](/백준/우선순위%20큐/최대%20힙.py)|10분|2022년 3월 11일|🟢|
+|<img src="./images/silver2.svg" width="auto" height="18"/>|11279|[최대 힙](/백준/우선순위%20큐/최대%20힙(2).py)|2시간|2022년 3월 11일|🟢|
+|<img src="./images/silver2.svg" width="auto" height="18"/>|1927|[최소 힙](/백준/우선순위%20큐/최소%20힙.py)|15분|2022년 3월 20일|🟢|
+|<img src="./images/silver1.svg" width="auto" height="18"/>|11286|[절댓값 힙](/백준/우선순위%20큐/절댓값%20힙.py)|40분|2022년 3월 20일|🟢|
+|<img src="./images/gold2.svg" width="auto" height="18"/>|1655|[가운데를 말해요](/백준/우선순위%20큐/가운데를%20말해요.py)|1시간|2022년 3월 20일|🟢|
 <p align="right"><a href="#목차">▲목차</a></p>  
 
 ## 프로그래머스
