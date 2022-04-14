@@ -167,6 +167,7 @@
 |<img src="./images/gold5.svg" width="auto" height="18"/>|1753|[빗물](/백준/구현/빗물.py)|20분|2022년 4월 13일|🟢|
 |<img src="./images/gold5.svg" width="auto" height="18"/>|5430|[AC](/백준/구현/AC.py)|30분|2022년 4월 13일|⚫|
 |<img src="./images/gold5.svg" width="auto" height="18"/>|5430|[AC](/백준/구현/AC(2).py)|30분|2022년 4월 13일|🟢|
+|<img src="./images/gold3.svg" width="auto" height="18"/>|16236|[아기상어](/백준/구현/아기%20상어.py)|1시간 10분|2022년 4월 14일|🟡|
 <p align="right"><a href="#목차">▲목차</a></p>  
 
 ## 프로그래머스
