@@ -1,20 +1,18 @@
 """
-시작 시간: 2022년 4월 14일 오후 12시 50분
-소요 시간: 1시간 10분
+시작 시간: 2022년 4월 15일 오전 10시 55분
+소요 시간: 30분
 풀이 방법:
-    테스트케이스는 전부 통과지만, 시간초과에 메모리초과ㅠㅠ
-    좀 더 효율적인 코드 고민할 것
+    deepcopy 모듈이 무거워서 문제라고 생각해서 visited 배열을 따로 만들어서 처리함
+    그래도 느림
 """
 FISH_INF_SIZE = 7
-from copy import deepcopy
 from sys import stdin
 from collections import deque
 def get_distance(space, start, end, size):
-    global FISH_INF_SIZE
-    space = deepcopy(space)
+    visited = [[False for _ in range(len(space))] for _ in range(len(space))]
+    visited[start[0]][end[0]] = True
     queue = deque()
     queue.append(((start), 0))
-    space[start[0]][start[1]] = -1
     movings = [(-1, 0), (0, -1), (0, 1), (1, 0)]
     while queue:
         (x, y), distance = queue.popleft()
@@ -26,7 +24,7 @@ def get_distance(space, start, end, size):
                     return distance
                 if space[nx][ny] <= size:
                     queue.append(((nx, ny), distance))
-                    space[nx][ny] = FISH_INF_SIZE
+                    visited[nx][ny] = True
     return
 
 def get_fish_positions(space, baby_size):
@@ -46,8 +44,7 @@ def solution():
         grid_map.append(line)
         if 9 in line:
             x, y = i, line.index(9)
-
-    time = 0
+    cost = 0
     baby_size = 2
     small_fish_positions = get_fish_positions(grid_map, baby_size)
     ate_fish_count = 0
@@ -58,11 +55,10 @@ def solution():
             if distance:
                 fish_distances.append((fish_position, distance))
         if not fish_distances:
-            return time
+            return cost
         
         eating_position, distance = min(fish_distances, key=lambda x: x[1])
-        time += distance
-        print(">>>>>>>>>>>>" ,time, eating_position)
+        cost += distance
         grid_map[x][y] = 0
         x, y = eating_position
         grid_map[x][y] = 9
@@ -71,6 +67,6 @@ def solution():
             baby_size += 1
             ate_fish_count = 0
         small_fish_positions = get_fish_positions(grid_map, baby_size)
-    return time
+    return cost
 
 print(solution())
