@@ -171,6 +171,7 @@
 |<img src="./images/gold3.svg" width="auto" height="18"/>|16236|[아기상어](/백준/구현/아기%20상어(2).py)|30분|2022년 4월 15일|⚫|
 |<img src="./images/gold3.svg" width="auto" height="18"/>|16236|[아기상어](/백준/구현/아기%20상어(3).py)|30분|2022년 4월 15일|🟢|
 |<img src="./images/gold2.svg" width="auto" height="18"/>|12100|[2048 (Easy)](/백준/구현/2048.py)|1시간 50분|2022년 4월 15일|🟢|
+|<img src="./images/gold3.svg" width="auto" height="18"/>|19238|[스타트 택시](/백준/구현/스타트%20택시.py)|1시간 30분|2022년 4월 20일|🔴|
 <p align="right"><a href="#목차">▲목차</a></p>  
 
 ## 프로그래머스
