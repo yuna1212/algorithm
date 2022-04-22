@@ -178,6 +178,8 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |<img src="./images/silver2.svg" width="auto" height="18"/>|11725|[트리의 부모 찾기](/백준/트리/트리의%20부모%20찾기.py)|20분|2022년 4월 21일|🟢|
 |<img src="./images/gold3.svg" width="auto" height="18"/>|1167|[트리의 지름](/백준/트리/트리의%20지름.py)|1시간 20분|2022년 4월 21일|🟢|
+|<img src="./images/gold4.svg" width="auto" height="18"/>|1967|[트리의 지름](/백준/트리/트리의%20지름2.py)|40분|2022년 4월 22일|🟢|
+|<img src="./images/silver1.svg" width="auto" height="18"/>|1991|[트리 순회](/백준/트리/트리%20순회.py)|30분|2022년 4월 22일|🟢|
 <p align="right"><a href="#목차">▲목차</a></p>  
 
 ## 프로그래머스
