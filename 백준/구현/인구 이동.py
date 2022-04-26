@@ -8,13 +8,6 @@
     링크 https://www.acmicpc.net/board/view/86503 참조해보자
 """
 from sys import stdin
-def get_next_position(x, y):
-    global N
-    if y + 1 < N:
-        return x, y+1
-    if x + 1 < N:
-        return x+1, 0
-    return None, None
 def is_unition_possible(num1, num2):
     global L, R
     if L <= abs(num1 - num2) <= R:
@@ -51,16 +44,15 @@ while is_moved:
     x, y = 0, 0
     visited = [[False for _ in range(N)] for _ in range(N)]
     parties = []
-    while x is not None and y is not None:
-        if visited[x][y]:
-            x, y = get_next_position(x, y)
-            continue
-        party = get_party(x, y)
-        if len(party) > 1:
-            for nx, ny in party:
-                visited[nx][ny] = True
-            parties.append(party)   
-        x, y = get_next_position(x, y)
+    for x in range(0, N):
+        for y in range(0, N):
+            if visited[x][y]:
+                continue
+            party = get_party(x, y)
+            if len(party) > 1:
+                for nx, ny in party:
+                    visited[nx][ny] = True
+                parties.append(party)   
     if parties:
         is_moved = True
         for party in parties:
