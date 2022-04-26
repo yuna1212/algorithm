@@ -49,15 +49,16 @@ day = 0
 while is_moved:
     is_moved = False
     x, y = 0, 0
-    visited = set()
+    visited = [[False for _ in range(N)] for _ in range(N)]
     parties = []
     while x is not None and y is not None:
-        if (x, y) in visited:
+        if visited[x][y]:
             x, y = get_next_position(x, y)
             continue
         party = get_party(x, y)
         if len(party) > 1:
-            visited.update(party)
+            for nx, ny in party:
+                visited[nx][ny] = True
             parties.append(party)   
         x, y = get_next_position(x, y)
     if parties:
