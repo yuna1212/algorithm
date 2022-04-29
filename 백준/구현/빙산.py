@@ -48,6 +48,7 @@ visited = [[True for _ in range(M)] for _ in range(N)]
 the_number_of_groups = 1
 while the_number_of_groups < 2:
     next_ices = []
+    next_sea = []
     for x, y, height in ices:
         adjacent_sea_count = 0
         for dx, dy in UNITS:
@@ -57,12 +58,14 @@ while the_number_of_groups < 2:
                     adjacent_sea_count += 1
         height -= adjacent_sea_count
         if height <= 0:
-            height = 0
-        next_ices.append((x, y, height))
+            next_sea.append((x, y))
+        else:
+            next_ices.append((x, y, height))
     for x, y, height in next_ices:
         MAP[x][y] = height
-        if height > 0:
-            visited[x][y] = False
+        visited[x][y] = False
+    for x, y in next_sea:
+        MAP[x][y] = 0
     ices = next_ices
     if not ices:
         year = -1
