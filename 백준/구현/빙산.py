@@ -10,9 +10,6 @@ def get_the_number_of_groups(ices, visited):
     the_number_of_groups = 0
     if not ices:
         return the_number_of_groups
-    # visited = [[True for _ in range(M)] for _ in range(N)]
-    # for x, y, _ in ices:
-    #     visited[x][y] = False
     i = 0
     while i < len(ices):
         x, y, _ = ices[i]
@@ -48,7 +45,7 @@ for i in range(N):
 year = 0
 
 visited = [[True for _ in range(M)] for _ in range(N)]
-the_number_of_groups = get_the_number_of_groups(ices, visited)
+the_number_of_groups = 1
 while the_number_of_groups < 2:
     next_ices = []
     for x, y, height in ices:
@@ -67,6 +64,9 @@ while the_number_of_groups < 2:
         MAP[x][y] = height
         visited[x][y] = False
     ices = next_ices
+    if not ices:
+        year = -1
+        break
     the_number_of_groups = get_the_number_of_groups(ices, visited)
     year += 1
-print(year)
+print(year) if year >= 0 else print(0)
