@@ -58,11 +58,11 @@ while the_number_of_groups < 2:
         height -= adjacent_sea_count
         if height <= 0:
             height = 0
-        else:
-            next_ices.append((x, y, height))
+        next_ices.append((x, y, height))
     for x, y, height in next_ices:
         MAP[x][y] = height
-        visited[x][y] = False
+        if height > 0:
+            visited[x][y] = False
     ices = next_ices
     if not ices:
         year = -1
