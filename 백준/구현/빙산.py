@@ -5,14 +5,14 @@
     시간초과!
     
 """
-def get_the_number_of_groups(ices):
+def get_the_number_of_groups(ices, visited):
     global N, M, UNITS
     the_number_of_groups = 0
     if not ices:
         return the_number_of_groups
-    visited = [[True for _ in range(M)] for _ in range(N)]
-    for x, y, _ in ices:
-        visited[x][y] = False
+    # visited = [[True for _ in range(M)] for _ in range(N)]
+    # for x, y, _ in ices:
+    #     visited[x][y] = False
     i = 0
     while i < len(ices):
         x, y, _ = ices[i]
@@ -46,8 +46,9 @@ for i in range(N):
             ices.append((i, j, line[j])) # 행, 열, 얼음 높이
     MAP.append(line)
 year = 0
-the_number_of_groups = get_the_number_of_groups(ices)
 
+visited = [[True for _ in range(M)] for _ in range(N)]
+the_number_of_groups = get_the_number_of_groups(ices, visited)
 while the_number_of_groups < 2:
     next_ices = []
     for x, y, height in ices:
@@ -64,7 +65,8 @@ while the_number_of_groups < 2:
             next_ices.append((x, y, height))
     for x, y, height in next_ices:
         MAP[x][y] = height
+        visited[x][y] = False
     ices = next_ices
-    the_number_of_groups = get_the_number_of_groups(ices)
+    the_number_of_groups = get_the_number_of_groups(ices, visited)
     year += 1
 print(year)
