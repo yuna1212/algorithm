@@ -58,9 +58,9 @@ while the_number_of_groups < 2:
                 if MAP[nx][ny] == 0:
                     adjacent_sea_count += 1
         height -= adjacent_sea_count
-        if height < 0:
+        if height <= 0:
             height = 0
-        if height > 0:
+        else:
             next_ices.append((x, y, height))
     for x, y, height in next_ices:
         MAP[x][y] = height
