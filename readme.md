@@ -153,6 +153,7 @@
 |<img src="./images/silver1.svg" width="auto" height="18"/>|2667|[단지번호붙이기](/백준/DFS와%20BFS/단지번호붙이기.py)|40분|2022년 3월 10일|🟢|
 |<img src="./images/silver1.svg" width="auto" height="18"/>|2178|[미로 탐색](/백준/DFS와%20BFS/미로%20탐색.py)|1시간|2022년 3월 16일|🟢|
 |<img src="./images/gold5.svg" width="auto" height="18"/>|7576|[토마토](/백준/DFS와%20BFS/토마토.py)|50분|2022년 3월 16일|🟢|
+|<img src="./images/silver3.svg" width="auto" height="18"/>|2606|[바이러스](/백준/DFS와%20BFS/바이러스.py)|10분|2022년 6월 21일|🟢|
 ### 우선순위 큐
 |레벨|문제 번호|문제 이름|풀이 시간|날짜|완료|
 |:---:|:---:|:---:|:---:|:---:|:---:|
