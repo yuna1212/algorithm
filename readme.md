@@ -155,6 +155,7 @@
 |<img src="./images/gold5.svg" width="auto" height="18"/>|7576|[토마토](/백준/DFS와%20BFS/토마토.py)|50분|2022년 3월 16일|🟢|
 |<img src="./images/silver3.svg" width="auto" height="18"/>|2606|[바이러스](/백준/DFS와%20BFS/바이러스.py)|10분|2022년 6월 21일|🟢|
 |<img src="./images/silver2.svg" width="auto" height="18"/>|1012|[유기농 배추](/백준/DFS와%20BFS/유기농%20배추.py)|30분|2022년 6월 22일|🟢|
+|<img src="./images/gold5.svg" width="auto" height="18"/>|15591|[MooTube (Silver)](/백준/DFS와%20BFS/MooTube%20(Silver).py)|50분|2022년 6월 23일|🟢|
 ### 우선순위 큐
 |레벨|문제 번호|문제 이름|풀이 시간|날짜|완료|
 |:---:|:---:|:---:|:---:|:---:|:---:|
