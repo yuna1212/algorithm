@@ -216,6 +216,7 @@
 |<img src="./images/gold4.svg" width="auto" height="18"/>|1647|[도시 분할 계획](/백준/그래프%20이론/도시%20분할%20계획.py)|20분|2022년 6월 30일|🟢|
 |<img src="./images/gold4.svg" width="auto" height="18"/>|4386|[별자리 만들기](/백준/그래프%20이론/별자리%20만들기.py)|30분|2022년 6월 30일|🟢|
 |<img src="./images/gold4.svg" width="auto" height="18"/>|6497|[전력난](/백준/그래프%20이론/전력난.py)|1시간 30분|2022년 6월 30일|🟢|
+|<img src="./images/gold3.svg" width="auto" height="18"/>|10021|[Watering the Fields](/백준/그래프%20이론/Watering%20the%20Fields.py)|35분|2022년 7월 1일|🔴|
 ### 카카오 코드 페스티벌 2018 예선
 |레벨|문제 번호|문제 이름|풀이 시간|날짜|완료|
 |:---:|:---:|:---:|:---:|:---:|:---:|
