@@ -131,6 +131,7 @@
 |<img src="./images/silver4.svg" width="auto" height="18"/>|10773|[제로](백준/스택/제로.py)|5분|2022년 2월 5일|🟢|
 |<img src="./images/silver3.svg" width="auto" height="18"/>|1874|[스택 수열](백준/스택/스택%20수열.py)|1시간|2022년 2월 5일|🟢|
 |<img src="./images/gold4.svg" width="auto" height="18"/>|17298|[오큰수](백준/스택/오큰수.py)|15분|2022년 2월 18일|🟢|
+|<img src="./images/silver4.svg" width="auto" height="18"/>|9012|[괄호](백준/스택/괄호.py)|10분|2022년 8월 30일|🟢|
 ### 분할 정복
 |레벨|문제 번호|문제 이름|풀이 시간|날짜|완료|
 |:---:|:---:|:---:|:---:|:---:|:---:|
