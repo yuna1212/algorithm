@@ -234,6 +234,10 @@
 |<img src="./images/gold4.svg" width="auto" height="18"/>|6497|[전력난](/백준/그래프%20이론/전력난.py)|1시간 30분|2022년 6월 30일|🟢|
 |<img src="./images/gold3.svg" width="auto" height="18"/>|10021|[Watering the Fields](/백준/그래프%20이론/Watering%20the%20Fields.py)|35분|2022년 7월 1일|⚫|
 |<img src="./images/gold3.svg" width="auto" height="18"/>|10021|[Watering the Fields](/백준/그래프%20이론/Watering%20the%20Fields.cpp)|-분|2022년 7월 1일|🟢|
+### 위상정렬
+|레벨|문제 번호|문제 이름|풀이 시간|날짜|완료|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|<img src="./images/silver1.svg" width="auto" height="18"/>|1947|[선물 전달](/백준/위상정렬/선물%20교환.py)|1시간|2022년 9월 13일|🔴| 
 ### 카카오 코드 페스티벌 2018 예선
 |레벨|문제 번호|문제 이름|풀이 시간|날짜|완료|
 |:---:|:---:|:---:|:---:|:---:|:---:|
