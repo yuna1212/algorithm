@@ -152,6 +152,7 @@
 |<img src="./images/silver3.svg" width="auto" height="18"/>|11399|[ATM](/백준/그리디%20알고리즘/ATM.py)|5분|2022년 3월 28일|🟢|
 |<img src="./images/silver4.svg" width="auto" height="18"/>|13305|[주유소](/백준/그리디%20알고리즘/주유소.py)|20분|2022년 3월 28일|🟢|
 |<img src="./images/silver4.svg" width="auto" height="18"/>|1026|[보물](/백준/그리디%20알고리즘/보물.py)|10분|2022년 10월 14일|🟢|
+|<img src="./images/silver4.svg" width="auto" height="18"/>|2217|[로프](/백준/그리디%20알고리즘/로프.py)|20분|2022년 10월 18일|🟢|
 ### 스택
 |레벨|문제 번호|문제 이름|풀이 시간|날짜|완료|
 |:---:|:---:|:---:|:---:|:---:|:---:|
