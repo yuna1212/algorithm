@@ -1,5 +1,8 @@
 # 알고리즘 ![python-logo](https://img.shields.io/badge/Python-036998?style=appveyor&logo=Python&logoColor=ffd43b)
 다양한 알고리즘 문제를 해결합니다.  
+  
+wsl에서 vim을 사용하여 코드를 작성하며, shell script로 문제 파일 작성과 풀이 시간 계산을 자동화하고 있습니다.  
+이에 대한 내용은 [여기](https://sabujak.tistory.com/18)를 참고해주세요.  
 <details>
 <summary>문제 완료 기호</summary>
 <div markdown="1">
