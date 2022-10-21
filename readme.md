@@ -264,8 +264,8 @@ wsl에서 vim을 사용하여 코드를 작성하며, shell script로 문제 파
 |<img src="./images/silver1.svg" width="auto" height="18"/>|1254|[팰린드롬 만들기](/백준/문자열/팰린드롬%20만들기%201254.py)|20분|2022년 5월 12일|🟢|
 |<img src="./images/silver3.svg" width="auto" height="18"/>|9253|[스페셜 저지](/백준/문자열/스페셜%20저지.py)|20분|2022년 5월 16일|🟢|
 |<img src="./images/silver4.svg" width="auto" height="18"/>|1764|[듣보잡](/백준/문자열/듣보잡.py)|10분|2022년 10월 19일|🟢|
-|<img src="./images/gold4.svg" width="auto" height="18"/>|5052|[전화번호 목록](/백준/문자열/전화번호 목록.py)|20분|2022년 10월 19일|⚫|
-|<img src="./images/gold4.svg" width="auto" height="18"/>|5052|[전화번호 목록](/백준/문자열/전화번호 목록(2).py)|50분|2022년 10월 19일|🔴|
+|<img src="./images/gold4.svg" width="auto" height="18"/>|5052|[전화번호 목록](/백준/문자열/전화번호%20목록.py)|20분|2022년 10월 19일|⚫|
+|<img src="./images/gold4.svg" width="auto" height="18"/>|5052|[전화번호 목록](/백준/문자열/전화번호%20목록(2).py)|50분|2022년 10월 19일|🟢|
 ### 그래프 이론
 |레벨|문제 번호|문제 이름|풀이 시간|날짜|완료|
 |:---:|:---:|:---:|:---:|:---:|:---:|
