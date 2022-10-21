@@ -277,6 +277,8 @@ wsl에서 vim을 사용하여 코드를 작성하며, shell script로 문제 파
 |<img src="./images/gold3.svg" width="auto" height="18"/>|10021|[Watering the Fields](/백준/그래프%20이론/Watering%20the%20Fields.py)|35분|2022년 7월 1일|⚫|
 |<img src="./images/gold3.svg" width="auto" height="18"/>|10021|[Watering the Fields](/백준/그래프%20이론/Watering%20the%20Fields.cpp)|-분|2022년 7월 1일|🟢|
 |<img src="./images/gold4.svg" width="auto" height="18"/>|4485|[녹색 옷 입은 애가 젤다지?](/백준/그래프%20이론/녹색%20옷%20입은%20애가%20젤다지.py)|20분|2022년 10월 13일|🟢|
+|<img src="./images/silver1.svg" width="auto" height="18"/>|11403|[경로 찾기](/백준/그래프%20이론/경로%20찾기.py)|20분|2022년 10월 21일|🟢|
+|<img src="./images/gold4.svg" width="auto" height="18"/>|13905|[세부](/백준/그래프%20이론/세부.py)|40분|2022년 10월 21일|🟢|
 ### 위상정렬
 |레벨|문제 번호|문제 이름|풀이 시간|날짜|완료|
 |:---:|:---:|:---:|:---:|:---:|:---:|
