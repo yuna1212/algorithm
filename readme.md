@@ -270,6 +270,7 @@ wsl에서 vim을 사용하여 코드를 작성하며, shell script로 문제 파
 |<img src="./images/silver4.svg" width="auto" height="18"/>|1764|[듣보잡](/백준/문자열/듣보잡.py)|10분|2022년 10월 19일|🟢|
 |<img src="./images/gold4.svg" width="auto" height="18"/>|5052|[전화번호 목록](/백준/문자열/전화번호%20목록.py)|20분|2022년 10월 19일|⚫|
 |<img src="./images/gold4.svg" width="auto" height="18"/>|5052|[전화번호 목록](/백준/문자열/전화번호%20목록(2).py)|50분|2022년 10월 19일|🟢|
+|<img src="./images/silver5.svg" width="auto" height="18"/>|1439|[뒤집기](/백준/문자열/뒤집기.py)|10분|2022년 11월 4일|🟢|
 ### 그래프 이론
 |레벨|문제 번호|문제 이름|풀이 시간|날짜|완료|
 |:---:|:---:|:---:|:---:|:---:|:---:|
