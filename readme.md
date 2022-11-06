@@ -168,6 +168,7 @@ wsl에서 vim을 사용하여 코드를 작성하며, shell script로 문제 파
 |<img src="./images/silver4.svg" width="auto" height="18"/>|10610|[30](/백준/그리디%20알고리즘/30.py)|10분|2022년 10월 19일|🟢|
 |<img src="./images/silver1.svg" width="auto" height="18"/>|1946|[신입 사원](/백준/그리디%20알고리즘/신입%20사원.py)|10분|2022년 10월 27일|🟢|
 |<img src="./images/gold1.svg" width="auto" height="18"/>|17420|[깊콘이 넘쳐흘러](/백준/그리디%20알고리즘/깊콘이%20넘쳐흘러.py)|3시간|2022년 11월 1일|🟡|
+|<img src="./images/silver4.svg" width="auto" height="18"/>|1459|[걷기](/백준/그리디%20알고리즘/Problem1459.java)|2시간 30분|2022년 11월 7일|🟢|
 ### 스택
 |레벨|문제 번호|문제 이름|풀이 시간|날짜|완료|
 |:---:|:---:|:---:|:---:|:---:|:---:|
