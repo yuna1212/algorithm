@@ -157,6 +157,7 @@ wsl에서 vim을 사용하여 코드를 작성하며, shell script로 문제 파
 |<img src="./images/silver2.svg" width="auto" height="18"/>|1912|[연속합](/백준/다이나믹프로그래밍/연속합(2).py)|20분|2022년 10월 21일|🟢|
 |<img src="./images/silver1.svg" width="auto" height="18"/>|10844|[쉬운 계단 수](/백준/다이나믹프로그래밍/쉬운%20계단%20수.py)|40분|2022년 10월 20일|🟢|
 |<img src="./images/silver3.svg" width="auto" height="18"/>|11727|[2xn 타일링 2](/백준/다이나믹프로그래밍/2xn%20타일링%202.py)|50분|2022년 10월 21일|🟢|
+|<img src="./images/silver1.svg" width="auto" height="18"/>|1890|[점프](/백준/다이나믹프로그래밍/Problem1890.java)|2시간|2022년 11월 12일|🔴|
 ### 그리디 알고리즘
 |레벨|문제 번호|문제 이름|풀이 시간|날짜|완료|
 |:---:|:---:|:---:|:---:|:---:|:---:|
