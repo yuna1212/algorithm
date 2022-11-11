@@ -247,6 +247,7 @@ wsl에서 vim을 사용하여 코드를 작성하며, shell script로 문제 파
 |<img src="./images/silver3.svg" width="auto" height="18"/>|2559|[수열](/백준/구현/수열.py)|10분|2022년 11월 2일|🟢|
 |<img src="./images/silver3.svg" width="auto" height="18"/>|2659|[십자카드 문제](/백준/구현/Problem2659.java)|2시간|2022년 11월 5일|🟢|
 |<img src="./images/silver4.svg" width="auto" height="18"/>|1244|[스위치 켜고 끄기](/백준/구현/Problem1244.java)|1시간 15분|2022년 11월 8일|🟢|
+|<img src="./images/gold3.svg" width="auto" height="18"/>|17135|[캐슬 디펜스](/백준/구현/Problem17135.java)|2시간|2022년 11월 11일|🔴|
 ### 트리
 |레벨|문제 번호|문제 이름|풀이 시간|날짜|완료|
 |:---:|:---:|:---:|:---:|:---:|:---:|
