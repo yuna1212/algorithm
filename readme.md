@@ -187,6 +187,7 @@ wsl에서 vim을 사용하여 코드를 작성하며, shell script로 문제 파
 |<img src="./images/gold5.svg" width="auto" height="18"/>|2212|[센서](/백준/그리디%20알고리즘/센서.py)|1시간 10분|2022년 11월 23일|🟢|
 |<img src="./images/silver2.svg" width="auto" height="18"/>|2885|[초콜릿 식사](/백준/그리디%20알고리즘/초콜릿%20식사.py)|30분|2022년 11월 23일|🟢|
 |<img src="./images/silver3.svg" width="auto" height="18"/>|12018|[Yonsei TOTO](/백준/그리디%20알고리즘/Yonsei%20TOTO.py)|30분|2022년 11월 23일|🟢|
+|<img src="./images/gold2.svg" width="auto" height="18"/>|1202|[보석 도둑](/백준/그리디%20알고리즘/보석%20도둑.py)|30분|2022년 11월 23일|🔴|
 ### 스택
 |레벨|문제 번호|문제 이름|풀이 시간|날짜|완료|
 |:---:|:---:|:---:|:---:|:---:|:---:|
