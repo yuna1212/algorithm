@@ -278,6 +278,7 @@ wsl에서 vim을 사용하여 코드를 작성하며, shell script로 문제 파
 |<img src="./images/gold4.svg" width="auto" height="18"/>|14499|[주사위 굴리기](/백준/구현/주사위%20굴리기.py)|1시간|2022년 11월 27일|🟢|
 |<img src="./images/gold5.svg" width="auto" height="18"/>|14891|[톱니바퀴](/백준/구현/톱니바퀴.py)|1시간 20분|2022년 11월 28일|🟢|
 |<img src="./images/gold4.svg" width="auto" height="18"/>|15683|[감시](/백준/구현/감시.py)|1시간 50분|2022년 11월 29일|🟢|
+|<img src="./images/silver1.svg" width="auto" height="18"/>|13335|[트럭](/백준/구현/트럭.py)|40분|2023년 1월 3일|🟢|
 ### 트리
 |레벨|문제 번호|문제 이름|풀이 시간|날짜|완료|
 |:---:|:---:|:---:|:---:|:---:|:---:|
