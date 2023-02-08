@@ -283,6 +283,8 @@ wsl에서 vim을 사용하여 코드를 작성하며, shell script로 문제 파
 |<img src="./images/gold4.svg" width="auto" height="18"/>|11559|[Puyo Puyo](/백준/구현/Puyo%20Puyo.py)|1시간 10분|2023년 1월 5일|🔴|
 |<img src="./images/gold5.svg" width="auto" height="18"/>|27231|[2023년이 기대되는 이유](/백준/구현/2023년이%20기대되는%20이유.py)|1시간 10분|2023년 2월 7일|🟢|
 |<img src="./images/gold1.svg" width="auto" height="18"/>|27232|[청소](/백준/구현/청소.py)|2시간 10분|2023년 2월 8일|🔴|
+|<img src="./images/gold1.svg" width="auto" height="18"/>|27232|[청소](/백준/구현/청소(2).py)|2시간 30분|2023년 2월 9일|🔴|
+|<img src="./images/gold1.svg" width="auto" height="18"/>|27232|[청소](/백준/구현/청소(3).py)|1시간|2023년 2월 9일|🔴|
 ### 트리
 |레벨|문제 번호|문제 이름|풀이 시간|날짜|완료|
 |:---:|:---:|:---:|:---:|:---:|:---:|
