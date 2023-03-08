@@ -235,6 +235,7 @@ wsl에서 vim을 사용하여 코드를 작성하며, shell script로 문제 파
 |<img src="./images/silver2.svg" width="auto" height="18"/>|2644|[촌수계산](/백준/DFS와%20BFS/Problem2644.java)|40분|2022년 11월 11일|🟢|
 |<img src="./images/silver1.svg" width="auto" height="18"/>|9205|[맥주 마시면서 걸어가기](/백준/DFS와%20BFS/맥주%20마시면서%20걸어가기.py)|1시간|2022년 11월 25일|🟢|
 |<img src="./images/gold4.svg" width="auto" height="18"/>|1707|[이분 그래프](/백준/DFS와%20BFS/이분%20그래프.py)|1시간 20분|2023년 2월 10일|🟢|
+|<img src="./images/gold3.svg" width="auto" height="18"/>|2206|[벽 부수고 이동하기](/백준/DFS와%20BFS/벽%20부수고%20이동하기.py)|40분|2023년 3월 8일|🟢|
 ### 우선순위 큐
 |레벨|문제 번호|문제 이름|풀이 시간|날짜|완료|
 |:---:|:---:|:---:|:---:|:---:|:---:|
