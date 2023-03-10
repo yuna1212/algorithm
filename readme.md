@@ -211,6 +211,7 @@ wsl에서 vim을 사용하여 코드를 작성하며, shell script로 문제 파
 |<img src="./images/gold4.svg" width="auto" height="18"/>|10830|[행렬 제곱](백준/분할%20정복/행렬%20제곱.py)|1시간|2022년 2월 21일|🟢|
 |<img src="./images/silver1.svg" width="auto" height="18"/>|1629|[곱셈](백준/분할%20정복/곱셈.py)|10분|2022년 2월 22일|🟢|
 |<img src="./images/silver3.svg" width="auto" height="18"/>|9253|[별 찍기 - 10](/백준/분할%20정복/별%20찍기%20-%2010.py)|30분|2022년 5월 16일|🟢|
+|<img src="./images/silver1.svg" width="auto" height="18"/>|1074|[Z](/백준/분할%20정복/Z.py)|1시간|2023년 3월 11일|🟢|
 ### 이분 탐색
 |레벨|문제 번호|문제 이름|풀이 시간|날짜|완료|
 |:---:|:---:|:---:|:---:|:---:|:---:|
