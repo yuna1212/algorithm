@@ -304,6 +304,7 @@ wsl에서 vim을 사용하여 코드를 작성하며, shell script로 문제 파
 |<img src="./images/gold4.svg" width="auto" height="18"/>|9663|[N-Queen](/백준/백트래킹/N-Queen.py)|2시간|2022년 5월 9일|⚫|
 |<img src="./images/gold4.svg" width="auto" height="18"/>|9663|[N-Queen](/백준/백트래킹/N-Queen(2).py)|1시간 30분|2023년 3월 8일|🟢|
 |<img src="./images/silver1.svg" width="auto" height="18"/>|14888|[연산자 끼워넣기](/백준/백트래킹/연산자%20끼워넣기.py)|50분|2022년 9월 8일|⚫|
+|<img src="./images/silver3.svg" width="auto" height="18"/>|15654|[N과 M (5)](/백준/백트래킹/N과%20M%20(5).py)|40분|2023년 3월 11일|🟢|
 ### 문자열
 |레벨|문제 번호|문제 이름|풀이 시간|날짜|완료|
 |:---:|:---:|:---:|:---:|:---:|:---:|
